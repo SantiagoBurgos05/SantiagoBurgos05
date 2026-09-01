@@ -50,18 +50,17 @@ const santiago: Developer = {
 **Datos & Analítica**
 
 <img src="https://skillicons.dev/icons?i=mysql,r&theme=dark" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" title="Power BI" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" title="SQL Server" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" title="SQL Server" />
 
 **Herramientas & Metodologías**
 
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea&theme=dark" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jira.svg" title="Jira" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/confluence.svg" title="Confluence" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/azuredevops.svg" title="Azure DevOps" /> &nbsp;
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg" title="Excel" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/jira/2684FF" title="Jira" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/confluence/2684FF" title="Confluence" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/azuredevops/0078D7" title="Azure DevOps" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel/21A366" title="Excel" />
 
-*(Scrum no tiene un ícono/logo oficial de marca —es un marco de trabajo, no una empresa—, así que no aparece como ícono; queda listado en la sección de Soft Skills / Competencias más abajo.)*
 
 </div>
 
