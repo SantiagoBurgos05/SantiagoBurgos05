@@ -20,7 +20,7 @@
 const santiago: Developer = {
   role: "Full Stack Developer Junior",
   location: "Bogotá, Colombia 🇨🇴",
-  currentlyStudying: "Ingeniería de Sistemas (7° semestre) — Uniminuto",
+  currentlyStudying: "Ingeniería de Sistemas — Uniminuto",
   background: [
     "Tecnólogo en Análisis y Desarrollo de Software — SENA (2024)",
     "Bachiller Técnico en Desarrollo de Software — SENA (2022)",
@@ -50,17 +50,18 @@ const santiago: Developer = {
 **Datos & Analítica**
 
 <img src="https://skillicons.dev/icons?i=mysql,r&theme=dark" /> &nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img height="48" width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" title="SQL Server" />
 
 **Herramientas & Metodologías**
 
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea&theme=dark" /> &nbsp;
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<img height="48" width="48" src="https://cdn.simpleicons.org/jira/0052CC" title="Jira" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/confluence/172B4D" title="Confluence" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/azuredevops/0078D7" title="Azure DevOps" /> &nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" />
+
+*(Scrum no tiene un ícono/logo oficial de marca —es un marco de trabajo, no una empresa—, así que no aparece como ícono; queda listado en la sección de Soft Skills / Competencias más abajo.)*
 
 </div>
 
@@ -156,9 +157,7 @@ const santiago: Developer = {
 
 ## `07` &nbsp;// GITHUB_STATS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SantiagoBurgos05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" alt="GitHub Stats" width="48%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SantiagoBurgos05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoBurgos05&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" alt="GitHub Streak" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBurgos05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF" alt="Top Languages" width="48%" />
@@ -178,10 +177,17 @@ const santiago: Developer = {
 | 📧 Correo | [sbuitragob34@gmail.com](mailto:sbuitragob34@gmail.com) |
 | 💼 LinkedIn | [santiago-buitrago-burgos-dev](https://www.linkedin.com/in/santiago-buitrago-burgos-dev) |
 | 📱 WhatsApp | [+57 302 657 1803](https://wa.me/573026571803) |
-| 🐙 GitHub | *([SantiagoBurgos05](https://github.com/SantiagoBurgos05))* 
+| 🐙 GitHub | *SantiagoBurgos05](https://github.com/SantiagoBurgos05)* |
+
 </div>
 
 <div align="center">
+
+<br/>
+
+### `while(true) { learn(); code(); improve(); }`
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SantiagoBurgos05&color=00F5FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
 
