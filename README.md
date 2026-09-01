@@ -52,7 +52,8 @@ const santiago: Developer = {
 <img src="https://skillicons.dev/icons?i=mysql,r&theme=dark" /> &nbsp;
 <img height="48" width="48" src="https://api.iconify.design/logos/microsoft-power-bi.svg" title="Power BI" />
  &nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" title="SQL Server" />
+<img height="48" width="48" src="https://api.iconify.design/logos/microsoft-sql-server.svg" title="SQL Server" />
+
 
 
 **Herramientas & Metodologías**
@@ -60,10 +61,9 @@ const santiago: Developer = {
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea&theme=dark" /> &nbsp;
 <img height="48" width="48" src="https://cdn.simpleicons.org/jira/2684FF" title="Jira" /> &nbsp;
 <img height="48" width="48" src="https://cdn.simpleicons.org/confluence/2684FF" title="Confluence" /> &nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logoColor=white" title="Azure DevOps" />
+<img height="48" width="48" src="https://api.iconify.design/logos/azure-devops.svg" title="Azure DevOps" />
  &nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" title="Excel" />
-
+<img height="48" width="48" src="https://api.iconify.design/logos/microsoft-excel.svg" title="Excel" />
 </div>
 
 <br/>
