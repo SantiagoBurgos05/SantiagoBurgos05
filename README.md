@@ -50,7 +50,7 @@ const santiago: Developer = {
 **Datos & Analítica**
 
 <img src="https://skillicons.dev/icons?i=mysql,r&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" title="Power BI" />
+<img height="48" width="48" src="https://api.iconify.design/logos/microsoft-power-bi.svg" title="Power BI" />
  &nbsp;
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" title="SQL Server" />
 
