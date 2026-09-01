@@ -1,137 +1,194 @@
 <div align="center">
 
-# 👋 ¡Hola, soy Santiago Buitrago Burgos!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SANTIAGO%20BUITRAGO%20BURGOS&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bogot%C3%A1%2C%20Colombia&descAlignY=58&descSize=18&descColor=8FE9FF" width="100%" />
 
-### 💻 Desarrollador Full Stack Junior | 🇨🇴 Bogotá, Colombia
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+building+full-stack+web+apps...;React.js+%2B+Node.js+%2B+Python%2FFlask;Turning+data+into+decisions+with+Power+BI;Aprendizaje+continuo+%3D+c%C3%B3digo+continuo+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Python+%2F+Flask;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Buitrago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-buitrago-burgos-dev)
-[![Gmail](https://img.shields.io/badge/Email-sbuitragob34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbuitragob34@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B57%20302%20657%201803-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573026571803)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-buitrago-burgos-dev)
+[![Gmail](https://img.shields.io/badge/Email-Escríbeme-00F5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sbuitragob34@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contáctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573026571803)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Sobre mí
+## `01` &nbsp;// SOBRE_MÍ
 
-```yaml
-nombre: Santiago Buitrago Burgos
-rol: Desarrollador Full Stack Junior
-ubicacion: Bogotá, Colombia
-estudios: Ingeniería de Sistemas (7° semestre) — Uniminuto
-formacion_previa: >
-  Tecnólogo en Análisis y Desarrollo de Software (SENA, 2024)
-  Bachiller Técnico en Desarrollo de Software (SENA, 2022)
-idiomas: [Español (Nativo), Inglés (A2 - en formación)]
-enfoque: >
-  Construcción de aplicaciones web end-to-end,
-  aprendizaje autónomo y orientación a resultados
+```typescript
+const santiago: Developer = {
+  role: "Full Stack Developer Junior",
+  location: "Bogotá, Colombia 🇨🇴",
+  currentlyStudying: "Ingeniería de Sistemas (7° semestre) — Uniminuto",
+  background: [
+    "Tecnólogo en Análisis y Desarrollo de Software — SENA (2024)",
+    "Bachiller Técnico en Desarrollo de Software — SENA (2022)",
+  ],
+  languages: { spanish: "Nativo", english: "A2 — certificado" },
+  focus: "Aplicaciones web end-to-end, datos y mejora continua",
+  mindset: () => "aprender rápido, construir mejor, iterar siempre",
+};
 ```
 
-Soy un desarrollador Full Stack en formación continua, con experiencia real construyendo aplicaciones **end-to-end**: desde el modelado de bases de datos hasta interfaces responsivas para el usuario final. Me apasiona resolver problemas, trabajar en equipos ágiles (Scrum) y seguir creciendo técnicamente día a día.
+> Desarrollador Full Stack en constante evolución, con experiencia real construyendo software **end-to-end**: desde el modelado de datos hasta interfaces intuitivas para el usuario final. Ágil de mente y de metodología (Scrum), con un ojo puesto en la visualización de datos como herramienta de decisión.
 
----
+<br/>
 
-## 🛠️ Stack Tecnológico
+## `02` &nbsp;// TECH_STACK
 
 <div align="center">
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,flask,nodejs&theme=dark" />
 
-### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind&theme=dark" />
+
+**Datos & Analítica**
+
+<img src="https://skillicons.dev/icons?i=mysql,r&theme=dark" /> &nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Herramientas y metodologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+**Herramientas & Metodologías**
 
-### Otros
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,confluence,vscode,idea&theme=dark" /> &nbsp;
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 💼 Experiencia destacada
+## `03` &nbsp;// EXPERIENCIA
 
-### 🏦 Practicante — Desarrollador de Software · *Fiduciaria Bogotá*
-**Dic 2023 – Jun 2024**
-- 🔹 Desarrollé e implementé interfaces **CRUD** en React.js y Node.js, consumiendo servicios REST para gestión de datos financieros internos.
-- 🔹 Gestioné documentación técnica de proyectos, garantizando trazabilidad y claridad para el equipo.
-- 🔹 Ejecuté pruebas de calidad (QA), identificando y reportando incidencias dentro de los tiempos de sprint.
-- ✅ Entregué la CRUD solicitada dentro del plazo acordado y resolví las incidencias en los tiempos establecidos.
+<table>
+<tr>
+<td width="100%">
 
-### 🧩 Desarrollo de Proyecto Full Stack · *SENA*
-**Ene 2023 – Dic 2023**
-- 🔹 Diseñé e implementé una base de datos relacional mediante scripts SQL.
-- 🔹 Desarrollé el back-end con **Python y Flask**, exponiendo endpoints REST API.
-- 🔹 Construí el front-end en **React.js** con interfaces responsivas e intuitivas.
-- ✅ Entregué un sistema CRUD completo para gestión de inventario, integrando back-end y front-end con éxito.
+### 🏦 Practicante — Desarrollador de Software
+**Fiduciaria Bogotá** &nbsp;·&nbsp; `Dic 2023 – Jun 2024`
 
----
+```diff
++ Desarrollé interfaces CRUD en React.js y Node.js consumiendo servicios REST
++ para gestión de datos financieros internos.
++ Gestioné documentación técnica, asegurando trazabilidad para el equipo.
++ Ejecuté pruebas de calidad (QA), reportando incidencias dentro de cada sprint.
+```
+✅ Entregas cumplidas en plazo · ✅ Incidencias resueltas dentro de los tiempos de sprint
 
-## 🎓 Formación académica
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-| Programa | Institución | Año |
-|---|---|---|
-| Ingeniería de Sistemas (7° semestre en curso) | Universidad Minuto de Dios | 2026 |
+### 🧩 Desarrollo de Proyecto Full Stack
+**SENA** &nbsp;·&nbsp; `Ene 2023 – Dic 2023`
+
+```diff
++ Diseñé e implementé una base de datos relacional mediante scripts SQL.
++ Desarrollé el back-end con Python y Flask, exponiendo endpoints REST API.
++ Construí el front-end en React.js con interfaces responsivas e intuitivas.
+```
+✅ Sistema CRUD completo de inventario, de base de datos a interfaz de usuario
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `04` &nbsp;// CERTIFICACIONES
+
+<div align="center">
+
+<table>
+<tr>
+<th align="center">🏅 Certificación</th>
+<th align="center">Entidad</th>
+<th align="center">Detalle</th>
+<th align="center">Ver certificado</th>
+</tr>
+<tr>
+<td align="center"><b>Visualización de Datos usando Power BI</b></td>
+<td align="center">SENA</td>
+<td align="center">48 horas · Agosto 2026</td>
+<td align="center"><a href="https://drive.google.com/file/d/1txc2QcVi90RC5Qo1o9Mkk7cyo2Xib-W8/view?usp=sharing"><img src="https://img.shields.io/badge/Ver%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a></td>
+</tr>
+<tr>
+<td align="center"><b>Conocimientos Académicos en Inglés — Nivel A2</b></td>
+<td align="center">Academia de Idiomas SMART</td>
+<td align="center">Septiembre 2025</td>
+<td align="center"><a href="https://drive.google.com/file/d/1Clv6cy8skPo6xhMmzEIOCjN4jxRl8X7u/view?usp=sharing"><img src="https://img.shields.io/badge/Ver%20PDF-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## `05` &nbsp;// FORMACIÓN_ACADÉMICA
+
+| 🎓 Programa | 🏫 Institución | 📅 Año |
+|:---|:---|:---:|
+| Ingeniería de Sistemas *(7° semestre en curso)* | Universidad Minuto de Dios | 2026 |
 | Tecnólogo en Análisis y Desarrollo de Software | SENA | 2024 |
 | Bachiller Técnico en Desarrollo de Software | SENA | 2022 |
 
----
+<br/>
 
-## 🌟 Competencias
+## `06` &nbsp;// SOFT_SKILLS
 
-`Trabajo en equipo` · `Proactividad` · `Adaptabilidad` · `Aprendizaje continuo` · `Razonamiento crítico` · `Comunicación asertiva` · `Orientación a resultados`
+<div align="center">
 
----
+`🤝 Trabajo en equipo` &nbsp;|&nbsp; `⚡ Proactividad` &nbsp;|&nbsp; `🔄 Adaptabilidad` &nbsp;|&nbsp; `📚 Aprendizaje continuo`
+`🧠 Razonamiento crítico` &nbsp;|&nbsp; `💬 Comunicación asertiva` &nbsp;|&nbsp; `🎯 Orientación a resultados`
 
-## 📊 Estadísticas de GitHub
+</div>
+
+<br/>
+
+## `07` &nbsp;// GITHUB_STATS
 
 <div align="center">
 
 <!-- Reemplaza TU_USUARIO por tu usuario real de GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=SantiagoBurgos05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoBurgos05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SantiagoBurgos05&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBurgos05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBurgos05&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoBurgos05&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF" alt="Activity Graph" width="90%" />
 
 </div>
 
----
+<br/>
 
-## 📬 Contáctame
+## `08` &nbsp;// CONTACTO
 
 <div align="center">
 
 | Canal | Enlace |
-|---|---|
+|:---:|:---:|
 | 📧 Correo | [sbuitragob34@gmail.com](mailto:sbuitragob34@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/santiago-buitrago-burgos-dev](https://www.linkedin.com/in/santiago-buitrago-burgos-dev) |
+| 💼 LinkedIn | [santiago-buitrago-burgos-dev](https://www.linkedin.com/in/santiago-buitrago-burgos-dev) |
 | 📱 WhatsApp | [+57 302 657 1803](https://wa.me/573026571803) |
-| 🐙 GitHub | *(agrega el enlace a tu perfil aquí)* |
+| 🐙 GitHub | *([SantiagoBurgos05](https://github.com/SantiagoBurgos05))* |
+
+</div>
+
+<div align="center">
+
+<br/>
+
+### `while(true) { learn(); code(); improve(); }`
+
+![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00F5FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
 
 </div>
